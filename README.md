@@ -29,7 +29,7 @@ https://cdn.jsdelivr.net/gh/noorelmi/rumi-signature@main/<file>.png
 
 ## Signature content
 
-- **Name:** Najeeb Sharif — President
+- **Name:** Najib Sharifi — President
 - **Phone:** +90 541 132 68 03
 - **Address:** House#49, Street 4, Taimani, Kabul, Afghanistan
 - **Email:** contact@rumiconsultancy.com
